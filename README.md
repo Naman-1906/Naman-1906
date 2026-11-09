@@ -1,3 +1,4 @@
+
 # Hi, I'm Naman Gupta 👋
 
 ### BTech CSE Student | Aspiring Software Developer
@@ -12,13 +13,17 @@ I am a Computer Science Engineering student passionate about building practical 
 
 ### 🛠️ Tech Stack
 
-**Languages:** Java, C, C++, JavaScript, Python
+**Languages:** C, C++, Java, JavaScript, HTML, CSS, Shell Scripting (Basic), Python
 
-**Frontend:** HTML, CSS, React
+**Frontend:** React, Tailwind CSS
 
-**Backend:** Node.js, Express.js
+**Backend:** Node.js, Socket.IO
 
-**Database & Tools:** MongoDB, Firebase, Git, GitHub
+**Databases:** MongoDB, Firebase
+
+**Tools & Platforms:** Git, GitHub, Linux, VS Code
+
+**Core Concepts:** DSA, OOP, DBMS, Operating Systems, Computer Networks
 
 ### 🚀 Featured Projects
 
@@ -33,4 +38,3 @@ I am a Computer Science Engineering student passionate about building practical 
 - GitHub: https://github.com/Naman-1906
 - LinkedIn: [Your LinkedIn Profile]
 - Portfolio: [Your Portfolio Website]
-
