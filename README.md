@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Naman Gupta 👋
 
-<!--
-**Naman-1906/Naman-1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BTech CSE Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I am a Computer Science Engineering student passionate about building practical software projects and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BTech Computer Science Engineering
+- 💻 Interested in Software Development and Full Stack Development
+- 🌱 Currently improving my Java, DSA and Web Development skills
+- 🚀 Building projects that solve real-world problems
+- 🤝 Open to internships, collaboration and learning opportunities
+
+### 🛠️ Tech Stack
+
+**Languages:** Java, C, C++, JavaScript, Python
+
+**Frontend:** HTML, CSS, React
+
+**Backend:** Node.js, Express.js
+
+**Database & Tools:** MongoDB, Firebase, Git, GitHub
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| **EyeGuard-AI** | AI-based project focused on eye monitoring |
+| **SkillSwap** | Skill-based learning and skill exchange platform |
+| **HairVeda** | Java-based personalized hair care recommendation system |
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/Naman-1906
+- LinkedIn: [Your LinkedIn Profile]
+- Portfolio: [Your Portfolio Website]
+
