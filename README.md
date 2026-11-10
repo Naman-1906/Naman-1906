@@ -36,5 +36,4 @@ I am a Computer Science Engineering student passionate about building practical 
 ### 📫 Connect With Me
 
 - GitHub: https://github.com/Naman-1906
-- LinkedIn: [Your LinkedIn Profile]
-- Portfolio: [Your Portfolio Website]
+- LinkedIn: https://www.linkedin.com/in/namanguptaoffical
